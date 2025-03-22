@@ -41,8 +41,8 @@ Note: The notebook `06_nlp.ipynb` was not covered during the workshop due to tim
 - Python
 - Pandas
 - PyTorch
-- Jupyter Notebook familiarity
-- Each participant will be provided with dedicated access to a fully configured, GPU-accelerated server in the cloud.
+- Jupyter Notebooks familiarity
+- Each participant was provided with dedicated access to a fully configured, GPU-accelerated server in the cloud.
 
 ## 🏅 Certification
 
